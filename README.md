@@ -1,4 +1,8 @@
 # Microsoft-internship-project
+Description: 
+* In today's scenario, sometimes a client needs a global solution for their requirement. to fulfill the gap between the service provider and client , we need a website to communicate and a platform to deploy (azure).
+* Basically I have created a web application for industrial services based on client requirement and deployed the application with the help of azure & static web app services.
+
 website URL - " https://gentle-glacier-077248910.1.azurestaticapps.net " 
 * Azure static web app service: 
 ![image](https://user-images.githubusercontent.com/91625648/175549885-fe10e293-924e-4321-93d3-36f4dddafbc2.png)
